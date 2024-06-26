@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Kim</h1>
-<h3 align="center">Dedicated software engineer with a diverse background in various fields.</h3>
+<h3 align="center">Dedicated software engineer student with a diverse background in various fields.</h3>
 
 - 🌱 I’m currently learning **Databases, Flask.**
 
 - 📫 How to reach me **kimberlycanyas.kc@gmail.com**
 
-- ⚡ Fun fact **My mom said I am very funny**
+- ⚡ Fun fact **My mom says I am very funny.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
