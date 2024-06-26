@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kim</h1>
-<h3 align="center">Dedicated software engineer student with a diverse background in various fields.</h3>
+<h3 align="center">Dedicated software engineer  with a diverse background in various fields.</h3>
 
 - 🌱 I’m currently learning **Databases, Flask.**
 
