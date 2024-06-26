@@ -13,11 +13,9 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> Programming Languages: Python, JavaScript, Typescript<br/>
+<p align="left"> Programming Languages: Python, JavaScript<br/>
 Backend Technologies: Flask, Node.js, Linux<br/>
 Frontend Technologies: HTML, CSS, React, NextJS, TailwindCSS<br/>
-Test Automation: Selenium, Cypress, Playwright<br/>
 Databases: SQL and NoSQL, MySQL, SQLite, SQLAlchemy, MongoDB<br/>
-Automation and DevOps: Docker, GitHub Actions, Git</p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kimcodebase&show_icons=true&locale=en&layout=compact" alt="kimcodebase" /></p>
