@@ -11,11 +11,3 @@
 <p align="left">
 <a href="https://linkedin.com/in/kimberlycanas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kimberlycanas" height="30" width="40" /></a>
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> Programming Languages: Python, JavaScript<br/>
-Backend Technologies: Flask, Node.js, Linux<br/>
-Frontend Technologies: HTML, CSS, React, NextJS, TailwindCSS<br/>
-Databases: SQL and NoSQL, MySQL, SQLite, SQLAlchemy, MongoDB<br/>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kimcodebase&show_icons=true&locale=en&layout=compact" alt="kimcodebase" /></p>
