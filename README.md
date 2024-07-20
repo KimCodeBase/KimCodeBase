@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kim</h1>
 <h3 align="center">Software Engineer  with a diverse background in various fields.</h3>
 
-- 🌱 I’m currently learning **Databases, Flask.**
+- 🌱 I’m currently learning **Preparing for ISTQB Tester Foundation Level Examn**
 
 - 📫 How to reach me **kimberlycanyas.kc@gmail.com**
 
