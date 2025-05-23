@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kim</h1>
 <h3 align="center">Software Engineer  with a diverse background in various fields.</h3>
 
-- 🌱 I’m currently learning **for ISTQB Tester Foundation Level Examn**
-
 - 📫 How to reach me **kimberlycanyas.kc@gmail.com**
-
-- ⚡ Fun fact **My mom says I am very funny.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
